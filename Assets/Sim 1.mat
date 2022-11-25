@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sim
+  m_Name: Sim 1
   m_Shader: {fileID: 4800000, guid: 7b74522d428b14b4aa9a5da7286f7e74, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -96,7 +96,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _LeafSelect: 1.24
+    - _LeafSelect: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
